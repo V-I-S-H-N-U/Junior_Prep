@@ -1,11 +1,10 @@
 # JUNIOR PREP
 # ![WebApp](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/logo1.png)
 
-# WebApp
 <table>
 <tr>
 <td>
-  Junior Prep, a placement preparation and training webapp is an online platform that helps job seekers mostly college students prepare for thier placements. This application provides a wide range of resources and tools that assist individuals in improving thier skills, gaining knowledge and praticing interview questions.
+  Junior Prep, a placement preparation and training webapp is an online platform that helps job seekers mostly college students prepare for their placements. This application provides a wide range of resources and tools that assist individuals in improving their skills, gaining knowledge and practicing interview questions.
 </td>
 </tr>
 </table>
@@ -16,7 +15,7 @@ Here is a sample live demo of our introduction page :  [Junior Prep](https://v-i
 
 ## Key Features
 
-* Learning Resource.
+* Learning Resources.
 * Mock Interviews.
 * Resume Builder and Review System.
 * Online Quiz.
@@ -24,8 +23,23 @@ Here is a sample live demo of our introduction page :  [Junior Prep](https://v-i
 
 ## Screenshots
 
-### Landing Page
+### Login Page
+![Login](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/login.jpg)
 
+### Resource Page
+![Resource](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/user%20notes.png)
+
+### Mock Interview Page
+![Resource](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/Admin%20interview.png)
+
+### Resume Builder Page
+![Resource](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/user%20resume.png)
+
+### Online Quiz Page
+![Resource](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/user%20quiz%20attend.png)
+
+### Enquiry Page
+![Resource](https://github.com/V-I-S-H-N-U/Junior_Prep/blob/master/images/user%20enquiries.png)
 
 ## Mobile support
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
